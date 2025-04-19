@@ -1,9 +1,9 @@
-## Hi, I'm Ren 
+# Hi, I'm Ren 
 
 
-# 💫 About Me:
-Computer Science student @ Universidad Autónoma de San Luis Potosí
-Cybersecurity student @ Southern New Hampshire University
+## 💫 About Me:
+### Computer Science student @ Universidad Autónoma de San Luis Potosí
+### Cybersecurity student @ Southern New Hampshire University
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adreez__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/renata-lara-433b54196) 
